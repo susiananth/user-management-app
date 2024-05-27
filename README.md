@@ -1,1 +1,1 @@
-# merchant-boot-app
+# user-management-app
